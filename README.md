@@ -1,9 +1,83 @@
-# miPrimerRepo
+# 👋 Hello Everyone! / ¡Hola a todos!  
+## I'm Yesica Alejandra Giraldo Tique
 
-:robot: **Ingeniera Mecatrónica**
-:pencil: **Directora de proyectos mecatrónicos**
-:traveler: **Amante por conocer lugares, deleitarme de comida, nuevas iniciativas y aprender.**
-:Sports-xtreme: **Me encantan los deportes extremos, hiking, etc.**
+🎓 **Mechatronics Engineer** from **Escuela Tecnológica Instituto Técnico Central**  
+💡 Passionate about **humanoid and mobile robotics**, **CAD design**, and currently learning **Python**, **C++**, and **ROS**.  
+🔧 I work on multidisciplinary engineering projects involving **mechanics, robotics, automation, electronics, and programming**.  
+📚 Currently studying **Project Management and Evaluation** and exploring different lines of specialization.  
 
-### Víasdecontacto
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-you_like-blue)
+---
+
+## 🌐 About Me / Sobre Mí
+
+:robot: **Mechatronics Engineer**  
+:technologist: **Project Manager in Engineering Solutions**  
+:earth_americas: **Explorer and culture enthusiast**  
+:mountain: **Lover of extreme sports, hiking and adventure**
+
+---
+
+## 🔍 Interests / Intereses
+
+- 📊 Project management and evaluation (MBA in progress)  
+- 🎯 Design Thinking for engineering solutions  
+- 🧮 Data analytics with **SQL**  
+- ⚙️ Hardware design for robotics applications  
+- 🤝 Open Source collaboration and learning  
+
+---
+
+## 🛠️ Skills / Habilidades
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 📐 CAD & Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FC0000?style=flat&logo=solidworks&logoColor=white) (SCWA Certified)
+
+### ⚡ Electronics
+- Eagle  
+- Tinkercad  
+- Proteus  
+
+---
+
+## 🚀 Featured Projects / Proyectos Destacados
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 [Mobile Robot - In process tu update](https://github.com/yesica103t) | A differential drive robot for indoor navigation | C++, ROS, Arduino |
+| 📊 [Power BI Dashboard - In process to update](https://github.com/yesica103) | Dashboard for project evaluation | Excel, Power BI |
+| 🛠️ [CAD Robotic Arm - In process to update](https://github.com/YesicaGiraldo/robotic-arm) | Robotic arm modeled in SolidWorks | SolidWorks |
+
+---
+
+## 📫 Contact / Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yesica_Giraldo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yesica-giraldo/)  
+[![Email](https://img.shields.io/badge/Email-yagiraldot@ieee.org-red?style=flat&logo=gmail)](mailto:yagiraldot@ieee.org)  
+[![Instagram](https://img.shields.io/badge/Instagram-@giraldoyesika-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/giraldoyesika/)  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1616--1709-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1616-1709)  
+[![GitHub](https://img.shields.io/badge/GitHub-YesicaGiraldo-black?style=flat&logo=github)](https://github.com/YesicaGiraldo)
+
+
+---
+
+## 🤝 How to Collaborate / Cómo Colaborar
+
+I'm open to collaboration in:
+- 🧠 Robotics projects
+- 🧮 Data analysis
+- 💻 Python / C++ based applications
+- 📦 Open Source initiatives
+
+Feel free to fork, open issues, or contact me for collaborations!  
+¡No dudes en forkar, abrir issues o escribirme para colaborar!
+
+---
+
+### ⭐ Don't forget to star my repositories if you like them! / ¡Dale estrella ⭐ a mis repos si te gustan!

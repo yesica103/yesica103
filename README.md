@@ -15,6 +15,20 @@
 :earth_americas: **Explorer and culture enthusiast**  
 :mountain: **Lover of extreme sports, hiking and adventure**
 
+--- 
+
+## 🤖 IEEE Volunteering & Leadership
+
+I am an active IEEE volunteer with the following current and past roles:
+
+- 🌎 **Student Activities Coordinator** – IEEE Region 9 (Latin America and the Caribbean) | 2024–2025  
+- 🤖 **Vice Chair** – IEEE RAS Colombia  
+- 👩‍🔬 **Vice Chair** – IEEE WIE Colombia  
+- 🎓 **Educational Activities Coordinator** – IEEE Colombia Section  
+- 🌟 **VOLT Program Graduate** – IEEE 2022  
+
+IEEE is a big part of my professional and personal growth. I love contributing to the development of engineering communities, especially empowering young engineers and promoting diversity and inclusion in STEM.
+
 ---
 
 ## 🔍 Interests / Intereses

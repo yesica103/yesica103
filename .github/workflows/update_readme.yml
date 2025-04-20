@@ -1,8 +1,8 @@
-name: Update README Activity
+name: Update README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,15 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.2.2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-
-      - name: Setup Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+      
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

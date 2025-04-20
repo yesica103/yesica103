@@ -80,10 +80,10 @@ IEEE is a big part of my professional and personal growth. I love contributing t
 
 
 ---
-⚡ Recent Activity
+### :zap: Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🤝 How to Collaborate / Cómo Colaborar
 

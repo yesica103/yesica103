@@ -83,7 +83,6 @@ IEEE is a big part of my professional and personal growth. I love contributing t
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:last_update-->
 
 ## 🤝 How to Collaborate / Cómo Colaborar

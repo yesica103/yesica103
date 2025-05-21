@@ -83,14 +83,9 @@ IEEE is a big part of my professional and personal growth. I love contributing t
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [yesica103/miTercerRepo](https://github.com/yesica103/miTercerRepo)<br>
-2. 🎉 Merged PR [#3](https://github.com/yesica103/miTercerRepo/pull/3) in [yesica103/miTercerRepo](https://github.com/yesica103/miTercerRepo)<br>
-3. 💪 Opened PR [#3](https://github.com/yesica103/miTercerRepo/pull/3) in [yesica103/miTercerRepo](https://github.com/yesica103/miTercerRepo)<br>
-4. ⬆️ Pushed 2 commit(s) to [yesica103/miTercerRepo](https://github.com/yesica103/miTercerRepo)<br>
-5. ⬆️ Pushed 2 commit(s) to [yesica103/miTercerRepo](https://github.com/yesica103/miTercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 21st, 2025, 2:27:14 AM
+Last Updated: Wednesday, May 21st, 2025, 12:20:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 

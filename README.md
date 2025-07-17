@@ -83,14 +83,14 @@ IEEE is a big part of my professional and personal growth. I love contributing t
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [yesica103/django](https://github.com/yesica103/django)<br>
-2. ⬆️ Pushed 1 commit(s) to [yesica103/django](https://github.com/yesica103/django)<br>
-3. ⬆️ Pushed 1 commit(s) to [yesica103/django](https://github.com/yesica103/django)<br>
+1. ⬆️ Pushed 1 commit(s) to [yesica103/curso-python-pip](https://github.com/yesica103/curso-python-pip)<br>
+2. ⬆️ Pushed 2 commit(s) to [yesica103/curso-python-pip](https://github.com/yesica103/curso-python-pip)<br>
+3. 📔 Created new repository [yesica103/django_coffe_shop](https://github.com/yesica103/django_coffe_shop)<br>
 4. ⬆️ Pushed 1 commit(s) to [yesica103/django](https://github.com/yesica103/django)<br>
 5. ⬆️ Pushed 1 commit(s) to [yesica103/django](https://github.com/yesica103/django)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 17th, 2025, 12:21:56 PM
+Last Updated: Thursday, July 17th, 2025, 1:07:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
